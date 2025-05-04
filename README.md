@@ -1,5 +1,6 @@
 # 💫 About Me:
-CSE student at IIIT Kottayam with a strong interest in Data Structures & Algorithms and software development. I enjoy solving problems, writing clean code, and building useful tech projects.
+CSE student at IIIT Kottayam with a strong interest in Data Structures & Algorithms and software development. 
+I enjoy solving problems, writing clean code, and building useful tech projects.
 
 
 ## 🌐 Socials:
