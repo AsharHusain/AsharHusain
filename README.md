@@ -19,6 +19,9 @@ I enjoy solving problems, writing clean code, and building useful tech projects.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AsharHusain&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 🐍 GitHub Contribution Snake
+![snake gif](https://raw.githubusercontent.com/AsharHusain/AsharHusain/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=AsharHusain&icon=0&color=0)](https://visitcount.itsvg.in)
 
